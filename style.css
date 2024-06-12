@@ -83,7 +83,7 @@ img {
 
 .hd-maintext {
     font-size: 48px;
-    font-weight: bolder;
+    font-weight: 900;
 }
 
 .hd-subtext {
@@ -115,7 +115,7 @@ img {
 .random-info {
     font-size: 36px;
     color: #1f2937;
-    font-weight: bolder;
+    font-weight: 900;
     text-align: center;
     margin-top: 20px;
 }
